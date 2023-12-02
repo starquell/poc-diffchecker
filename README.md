@@ -4,9 +4,10 @@
 
 ```
 git clone --recurse-submodules https://github.com/starquell/poc-diffchecker.git
+cd poc-diffchecker
 python3 -m venv .venv
 pip3 install -r requirements.txt
 ```
 
-And run with `python3 main.py example.go`
+And run with `python3 main.py examples/simple.go`
 
