@@ -1,0 +1,3 @@
+[submodule "grammars/go"]
+	path = grammars/go
+	url = https://github.com/tree-sitter/tree-sitter-go
